@@ -1,0 +1,8 @@
+Please change Userid and Password of your database.
+Follow the steps:
+1)Go to Projrct in your Eclipse i.e (CompanyDemo)
+2)Then follow given Path:
+CompanyDemo -> Java Resource -> src -> com.demo.dbconnection ->ConnectionProvider.java
+3)Then change:
+	user="root"(or Your database username)
+	password="root" (or Your database password)

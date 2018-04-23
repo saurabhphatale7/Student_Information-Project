@@ -1,0 +1,62 @@
+body{
+	
+	background:#004080;
+}
+
+.header{
+	color:white;
+}
+
+.formTitle{
+	size: 20px;
+	color:white;
+	padding-bottom: 15px;
+	
+}
+.regSubmit{
+
+	position:relative;
+	left: 210px;
+	padding:20px;
+	
+}
+.selButton{
+	position: relative;
+	left:220px;
+
+	
+}
+.error{
+	font-size:20px;
+	color: #ff0000;
+}
+li{
+	color:white;
+	
+}
+li>a{
+	font-size:20px;
+	color:yellow;
+}
+.tdiv
+{
+	font-size:20px;
+	color:yellow;
+}
+.link
+{
+	font-size:18px;
+	color:white;
+}
+.ok{
+	font-size:20px;
+	color:#00ff00;
+}
+.getDetails{
+	border: 2.5px solid orange;
+	color:black;
+	font-weight:bold;
+	background-color: white;
+	font-size: 15px;
+	
+}
